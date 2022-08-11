@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kwnote.vercel.app</id>
+    <title>kwnote</title>
+    <updated>2022-08-11T12:05:31.440Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kwnote.vercel.app"/>
+    <link rel="self" href="https://kwnote.vercel.app/atom.xml"/>
+    <subtitle>好记性不如烂笔头</subtitle>
+    <logo>https://kwnote.vercel.app/images/avatar.png</logo>
+    <icon>https://kwnote.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2022, kwnote</rights>
+    <entry>
+        <title type="html"><![CDATA[超实用在线工具！能将文字加密为Emoji表情]]></title>
+        <id>https://kwnote.vercel.app/post/AyQRl3diQ/</id>
+        <link href="https://kwnote.vercel.app/post/AyQRl3diQ/">
+        </link>
+        <updated>2022-08-11T11:30:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS去广告最简单方案！+以图搜漫]]></title>
+        <id>https://kwnote.vercel.app/post/-szJw_u_Q/</id>
+        <link href="https://kwnote.vercel.app/post/-szJw_u_Q/">
+        </link>
+        <updated>2022-08-11T01:10:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你言我语 By Twikoo]]></title>
+        <id>https://kwnote.vercel.app/post/XkQuFgNrD/</id>
+        <link href="https://kwnote.vercel.app/post/XkQuFgNrD/">
+        </link>
+        <updated>2022-08-10T12:28:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html页面嵌套其他网站页面的方法]]></title>
+        <id>https://kwnote.vercel.app/post/html页面嵌套其他网站页面的方法/</id>
+        <link href="https://kwnote.vercel.app/post/html页面嵌套其他网站页面的方法/">
+        </link>
+        <updated>2022-08-09T05:29:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器下出现net::ERR_BLOCKED_BY_CLIENT的解决办法]]></title>
+        <id>https://kwnote.vercel.app/post/浏览器下出现net-ERR-BLOCKED-BY-CLIENT的解决办法/</id>
+        <link href="https://kwnote.vercel.app/post/浏览器下出现net-ERR-BLOCKED-BY-CLIENT的解决办法/">
+        </link>
+        <updated>2022-08-09T05:27:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html网页乱码原因以及解决办法]]></title>
+        <id>https://kwnote.vercel.app/post/html网页乱码原因以及解决办法/</id>
+        <link href="https://kwnote.vercel.app/post/html网页乱码原因以及解决办法/">
+        </link>
+        <updated>2022-08-09T05:24:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单击按钮弹出悬浮窗+页面遮罩]]></title>
+        <id>https://kwnote.vercel.app/post/单击按钮弹出悬浮窗-页面遮罩/</id>
+        <link href="https://kwnote.vercel.app/post/单击按钮弹出悬浮窗-页面遮罩/">
+        </link>
+        <updated>2022-08-09T05:20:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给博客添加个充电按钮（仿B站）]]></title>
+        <id>https://kwnote.vercel.app/post/给博客添加个充电按钮（仿B站）/</id>
+        <link href="https://kwnote.vercel.app/post/给博客添加个充电按钮（仿B站）/">
+        </link>
+        <updated>2022-08-08T23:40:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语言代码表]]></title>
+        <id>https://kwnote.vercel.app/post/语言代码表/</id>
+        <link href="https://kwnote.vercel.app/post/语言代码表/">
+        </link>
+        <updated>2022-08-08T11:11:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在网站上更改鼠标样式]]></title>
+        <id>https://kwnote.vercel.app/post/在网站上更改鼠标样式/</id>
+        <link href="https://kwnote.vercel.app/post/在网站上更改鼠标样式/">
+        </link>
+        <updated>2022-08-08T11:02:41.000Z</updated>
+    </entry>
+</feed>
